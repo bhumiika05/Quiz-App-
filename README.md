@@ -1,2 +1,2 @@
 # Quiz-App-
-t is a multiple choice quiz application designed for beginners. The program displays a set of questions, each with four options, and allows the user to select an answer. After each question, the program checks whether the answer is correct and keeps track of the user`s score.
+t is a multiple choice quiz application designed for beginners. The program displays a set of predefined questions and each question must be answered using only one word.The program checks if the answer matches the correct one word answer and then keeps the track of the score of the user.
